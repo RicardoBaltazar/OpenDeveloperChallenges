@@ -1,4 +1,5 @@
 <h1 align="center">Ecoleta</h1>  
-![Ecoleta](https://user-images.githubusercontent.com/56805229/88117745-5631f600-cb92-11ea-8e1a-9c70e90038b0.png)  
+![Ecoleta](https://user-images.githubusercontent.com/56805229/89372434-8b733380-d6bc-11ea-8aba-d62e8cea5cc7.png)  
+  
 ## Repositório https://github.com/RicardoBaltazar/Ecoleta-Frontend-Javascript  
 ## Projeto
