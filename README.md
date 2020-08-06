@@ -4,4 +4,11 @@
   
 #### Projeto  
 #### Descrição e código do Projeto https://github.com/RicardoBaltazar/Ecoleta-Frontend-Javascript  
-
+  
+  
+  
+  <h1 align="center">Barbearia Retrô</h1>  
+  ![Barber](https://user-images.githubusercontent.com/56805229/89581430-588c8500-d80d-11ea-8b5a-7eba3285663b.png)  
+    
+ ### Projeto  
+ ### Descrição e código do projeto
