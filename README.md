@@ -1,3 +1,12 @@
+<h1 align="center">Barber Shop</h1>  
+    
+![barber-shop](https://user-images.githubusercontent.com/56805229/89960273-f79dec00-dc14-11ea-8fe6-1bcccb6fe69a.png)  
+  
+#### Projeto [link](https://barber-shop-react-js.vercel.app/#/about)  
+#### Código e descrição do projeto [link](https://github.com/RicardoBaltazar/Barber-Shop-ReactJs)  
+  
+<hr><br><br>
+  
 <h1 align="center">Ecoleta</h1>  
     
 ![Ecoleta](https://user-images.githubusercontent.com/56805229/89372434-8b733380-d6bc-11ea-8aba-d62e8cea5cc7.png)  
