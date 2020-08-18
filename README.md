@@ -31,3 +31,6 @@
   
 #### Projeto [link](https://ricardobaltazar.github.io/Go-Weather-javascript/)  
 #### Código e descrição do projeto [link](https://github.com/RicardoBaltazar/Go-Weather-javascript)  
+  
+<hr><br><br>  
+  
