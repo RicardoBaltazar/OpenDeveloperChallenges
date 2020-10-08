@@ -7,6 +7,7 @@
 [Go Weather Javascript](https://github.com/RicardoBaltazar/Go-Weather-javascript)  
 [Lista Telefônica php](https://github.com/RicardoBaltazar/phone-book-PHP)  
 [Grid e Flexbox](https://github.com/RicardoBaltazar/Grid-and-flexbox)  
+[Alterar a cor de fundo - Javascript](https://ricardobaltazar.github.io/Alterar-a-cor-de-fundo/)  
 
 
   
