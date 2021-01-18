@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Portifólio</title>
+</head>
+
+<body>
+    <div class="page">
+        <header id="header">
+            <div>
+                <h1>Ricardo Baltazar</h1>
+                <small>Desenvolvedor Web</small>
+            </div>
+            <nav>
+                <a href="https://www.linkedin.com/in/ricardo-baltazar-b40683163/" target="blank">Linkedin</a>
+                <a href="https://github.com/RicardoBaltazar" target="blank">Github</a>
+            </nav>
+        </header>
+
+        <main>
+            <section class="menu">
+                <a href="#" class="link-menu" id="all-projects">Todos</a>
+                <a href="#" class="link-menu" id="page-react">React JS</a>
+                <a href="#" class="link-menu" id="page-js">Javascript</a>
+                <a href="#" class="link-menu" id="page-css">Css</a>
+                <a href="#" class="link-menu" id="page-php">PHP</a>
+            </section>
+
+            <div class="projects">
+                <h3>Todos os projetos</h3>
+                <section>
+                    <div class="info-card">
+                        <p>Site Pet Care</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="https://pet-care.vercel.app/" target="blank">Projeto</a>
+                            <a href="https://github.com/RicardoBaltazar/Pet-Care" target="blank">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <p>nome</p>
+                        <img src="img/pet-care.png" alt="imagem do projeto">
+                        <div class="buttons">
+                            <a href="">Projeto</a>
+                            <a href="">Código</a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <footer>
+            <a href="#header">Voltar ao topo</a>
+        </footer>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('.link-menu').click(function () {
+                let load_url = this.id
+                load_url = load_url + '.html'
+
+                $.ajax({
+                    url: load_url,
+                    success: function (data) {
+                        $('.projects').html(data)
+                    }
+                })
+
+            })
+        })
+    </script>
+</body>
+
+</html>
