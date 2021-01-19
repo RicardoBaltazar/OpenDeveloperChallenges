@@ -59,7 +59,7 @@ main section {
 }
 
 .menu {
-    margin: 25px 0 50px 0;
+    margin: 10px 0 50px 0;
 }
 
 .menu a {
@@ -96,7 +96,7 @@ main section {
     justify-content: center;
     align-items: center;
     padding: 0;
-    margin: 50px 25px;
+    margin: 85px 25px;
     transition: 0.3s;
 }
 
