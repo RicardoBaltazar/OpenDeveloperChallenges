@@ -13,8 +13,23 @@
 
 @media(max-width: 426px){
 
+    header div h1{
+        font-size: 18px;
+    }
+
     header a {
         margin-right: 0px;
+    }
+
+    header nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header nav a{
+        font-size: 14px;
+        margin-left: 15px;
     }
 
     main .menu {
