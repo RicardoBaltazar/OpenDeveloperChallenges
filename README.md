@@ -1,6 +1,8 @@
-# Meu Portifólio de projetos pessoais  
+## Minha lista de repositórios com projetos pessoais.
   
-Acesse nesse [link](https://portifolio-git-master.ricardobaltazar.vercel.app/)
-
-
+#### football ranking app  
+[link](https://github.com/RicardoBaltazar/football-ranking-app)  
+  
+#### Pass The Message  
+[link](https://github.com/RicardoBaltazar/Pass-The-Message)  
   
