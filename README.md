@@ -5,7 +5,6 @@
 #### [Landing Page BikeApp - NextJS](https://github.com/RicardoBaltazar/Landing-Page-BikeApp)
   
 #### [football ranking app - NextJS](https://github.com/RicardoBaltazar/football-ranking-app)    
-<img src='https://user-images.githubusercontent.com/56805229/111348210-b9f7ba80-865e-11eb-96b8-76f3f0aad595.png' width='250px'>  
   
 #### [Lista de Cervejarias - ReactJS](https://github.com/RicardoBaltazar/Lista-de-Cervejarias)  
 
@@ -28,5 +27,6 @@
 #### [Snake Game - Javascript](https://github.com/RicardoBaltazar/Snake-Game-Javascript)  
   
 #### [Pass The Message - Javascript](https://github.com/RicardoBaltazar/Pass-The-Message)  
+<img src='https://user-images.githubusercontent.com/56805229/111348210-b9f7ba80-865e-11eb-96b8-76f3f0aad595.png' width='250px'>  
 
   
