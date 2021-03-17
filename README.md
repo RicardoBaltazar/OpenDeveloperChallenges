@@ -26,6 +26,9 @@
   
 #### [Snake Game - Javascript](https://github.com/RicardoBaltazar/Snake-Game-Javascript)  
   
+#### [Counter - Javascript](https://github.com/RicardoBaltazar/Counter-Javascript/tree/master)  
+<img src='https://user-images.githubusercontent.com/56805229/111543829-5cdd3100-8752-11eb-9361-e5b31fbf110f.png' width='350px'>  
+  
 #### [Pass The Message - Javascript](https://github.com/RicardoBaltazar/Pass-The-Message)  
 <img src='https://user-images.githubusercontent.com/56805229/111348210-b9f7ba80-865e-11eb-96b8-76f3f0aad595.png' width='350px'>  
 
