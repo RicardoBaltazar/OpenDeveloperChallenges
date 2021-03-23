@@ -2,7 +2,7 @@
   
 #### [Lista Rango App - NextJS](https://github.com/goomerdev/job-dev-frontend-interview)  
   
-#### Landing Page BikeApp - NextJS [Link](https://github.com/RicardoBaltazar/Landing-Page-BikeApp)
+#### [Landing Page BikeApp - NextJS](https://github.com/RicardoBaltazar/Landing-Page-BikeApp)
 <img src='https://user-images.githubusercontent.com/56805229/111813477-038f1200-88b8-11eb-88d0-d18cd5232ce4.png' width='300px'>
     
 #### [football ranking app - NextJS](https://github.com/RicardoBaltazar/football-ranking-app)    
