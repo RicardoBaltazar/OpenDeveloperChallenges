@@ -1,3 +1,10 @@
+:root {
+  --secondary-color: #1E1E26;
+  --tertiary-color: #14141C;
+  --accent-color: #3BB4B4;
+  --text-color: #1E1E26;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -6,17 +13,14 @@
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  /* font-family: 'Inter', sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
   line-height: 1;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
 
 a {
   text-decoration: none;
