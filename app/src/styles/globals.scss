@@ -1,14 +1,14 @@
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
+  padding: 0;
+  margin: 0; 
 }
 
 :root {
-  --white: #ffffff;
+  --white: #FFFFFF;
   --secondary: #444444;
   --contrast: #FF5656;
-  --test: #5A5A5A;
+
 }
 
 @media(max-width: 1080px){
@@ -23,15 +23,17 @@
   }
 }
 
-body{
-  background-color: var(--white);
+html,
+body {
   font-family: 'Open Sans', sans-serif;
 }
 
 a {
+  color: inherit;
   text-decoration: none;
 }
 
 button {
   cursor: pointer;
 }
+
