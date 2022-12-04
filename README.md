@@ -1,10 +1,6 @@
-## Minha lista de desafios e projetos desenvolvidos para estudar programação  
+### My list of challenges and projects to study and practice programming 
   
-#### Front end  
-  
-Nome | Descrição | Tecnologias
-:--------- | :------: | :------:
-[App Cadastro](https://github.com/RicardoBaltazar/app-cadastro) | Aplicação para cadastrar empresas | React, Typescript, SASS  
+This repository was created to group my projects and programming challenges that I use to learn new technologies or practice something I've already learned.
   
   
 #### Back end  
