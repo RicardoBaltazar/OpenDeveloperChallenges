@@ -1,6 +1,6 @@
-### My list of challenges to study and practice programming 
-  
-In this repository, you'll find a collection of open-source programming challenges, perfect for enhancing your skills and delving deeper into your programming studies. My intention is to gather technical challenges that I use to practice and further my programming knowledge. Feel free to use these challenges as resources to enhance your skills or to learn something new. I will continue to consistently add new challenges to my studies our just for fun.
+### Minha lista de desafios para estudar e praticar programação  
+
+Neste repositório, você encontrará uma coleção de desafios de programação de código aberto, perfeitos para aprimorar suas habilidades e aprofundar seus estudos em programação. Minha intenção é reunir desafios técnicos que eu uso para praticar e expandir meu conhecimento em programação. Sinta-se à vontade para utilizar esses desafios como recursos para melhorar suas habilidades ou para aprender algo novo. Continuarei adicionando regularmente novos desafios aos meus estudos ou apenas para diversão.
   
 #### Back end  
   
