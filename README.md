@@ -1,6 +1,6 @@
-### Minha lista de desafios para estudar e praticar programação  
+### Lista de desafios para estudar e praticar programação  
 
-Neste repositório, você encontrará uma coleção de desafios de programação. Sinta-se à vontade para utilizar esses desafios como recursos para melhorar suas habilidades ou para aprender algo novo. 
+Eu gosto muito de desafios técnicos de programação! Neste repositório, você encontrará uma coleção de desafios de vários níveis que eu utilizo para estudar. Sinta-se à vontade para utilizar esses desafios como recursos para melhorar suas habilidades ou para aprender algo novo. Sigo sempre adicionando novos desafios ou refatorando desafios antigos. Sinta-se à vontade também para adicionar algum desafio técnico, ou contribuir para o código de algum desafio.
   
 #### Back end  
   
