@@ -1,6 +1,6 @@
 ### Minha lista de desafios para estudar e praticar programação  
 
-Neste repositório, você encontrará uma coleção de desafios de programação de código aberto, perfeitos para aprimorar suas habilidades e aprofundar seus estudos em programação. Minha intenção é reunir desafios técnicos que eu uso para praticar e expandir meu conhecimento em programação. Sinta-se à vontade para utilizar esses desafios como recursos para melhorar suas habilidades ou para aprender algo novo.
+Neste repositório, você encontrará uma coleção de desafios de programação. Sinta-se à vontade para utilizar esses desafios como recursos para melhorar suas habilidades ou para aprender algo novo. 
   
 #### Back end  
   
